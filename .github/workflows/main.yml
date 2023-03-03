@@ -1,0 +1,18 @@
+name: nafufuzemudo
+on: push
+jobs:
+  porujati1:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - run: cd /; sudo mkdir gowal; echo "jakosiwo tigahilo"
+  lobe5:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - run: cd /; sudo mkdir gowal; echo "fosipizi woxuyakaviwa"
+  zepixi6:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - run: cd /; sudo mkdir gowal; echo "wopihagofa sisoyozo"
